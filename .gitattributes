@@ -1,2 +1,3 @@
 # ignore html
 * .html linguist-detectable=false
+* text=auto
